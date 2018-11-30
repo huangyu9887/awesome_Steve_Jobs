@@ -1,5 +1,7 @@
 # Steve Jobs
 
+[Steve Jobs - Wikipedia](https://en.wikipedia.org/wiki/Steve_Jobs)
+
 ## talks
 ## essay
 ## media
@@ -15,3 +17,5 @@
 
 
 # CHANGELOG
+
+- 20181130
