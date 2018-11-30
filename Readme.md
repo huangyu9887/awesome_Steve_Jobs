@@ -3,6 +3,9 @@
 ## talks
 ## essay
 ## media
+
+- [2012 The Real Leadership Lessons of Steve Jobs](https://hbr.org/2012/04/the-real-leadership-lessons-of-steve-jobs)
+
 ## others
 
 - [乔布斯：如何打造A级团队](https://zine.la/article/49f5e976170111e7bc2e52540d79d783/?from=singlemessage&isappinstalled=1)
