@@ -3,6 +3,8 @@
 [Steve Jobs - Wikipedia](https://en.wikipedia.org/wiki/Steve_Jobs)
 
 ## talks
+[1997 Think Different](https://github.com/huangyu9887/awesome_Steve_Jobs/blob/master/jobs_marketing_1997.pptx)
+
 ## essay
 ## media
 
